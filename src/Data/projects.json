@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Online Book Store",
+        "imageSrc": "projects/Project.jpeg",
+        "description": "This is a simple Book Store Project built using the MOngoDb, Express.js, React and Node.js. This project demonstrates basic CRUD operations on both the frontend and backend",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://book-store-dhruv.netlify.app"
+    },
+    {
+        "title": "E-Commerce Website",
+        "imageSrc": "projects/Ecommerce.png",
+        "description": "This is a simple E-commerce Store Project built using the(MOngoDb, Express.js, React and Node.js. This project demonstrates basic CRUD operations on both the frontend and backend and frontend",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "MongoDb"
+        ],
+        "demo": "https://mern-store-gold.vercel.app/"
+    },
+    {
+        "title": "VirtualR tool website",
+        "imageSrc": "projects/Virtual.png",
+        "description": "VirtualR is a site for the developers to experience virtual coding though its just a layout of an ideal technology",
+        "skills": [
+            "React.js",
+            "Tailwind"
+        ],
+        "demo": "https://virtual-site.netlify.app"
+    }
+]

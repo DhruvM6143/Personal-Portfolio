@@ -1,0 +1,14 @@
+[
+    {
+        "role": "Full Stack Developer Internship",
+        "organisation": "InnoByte Services",
+        "startDate": "August, 2024",
+        "endDate": "Present",
+        "experiences": [
+            "Worked on creating Backend API's for an Blog Application",
+            "Currently working on Testing phase(Unit & integration testing)",
+            "Along side also working with frontend development as well"
+        ],
+        "imageSrc": "history/Inno.png"
+    }
+]
